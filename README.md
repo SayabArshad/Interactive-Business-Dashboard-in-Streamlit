@@ -1,4 +1,4 @@
-# Task-5-Interactive-Business-Dashboard-in-Streamlit
+# Interactive-Business-Dashboard-in-Streamlit
 
 ## ✅ Task Objective
 To design and deploy an interactive business dashboard using Streamlit and Plotly that allows users to analyze and visualize sales and profit from the Global Superstore dataset.
