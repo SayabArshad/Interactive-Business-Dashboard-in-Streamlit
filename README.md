@@ -24,10 +24,10 @@
 📜 **License:** MIT License  
 
 🖼️ **Dashboard Interface Previews:**  
-![Interface 1](assets/1.jpg)  
-![Interface 2](assets/2.jpg)  
-![Interface 3](assets/3.jpg)  
-![Interface 4](assets/4.jpg)  
+![Interface 1](assets/1.JPG)  
+![Interface 2](assets/2.JPG)  
+![Interface 3](assets/3.JPG)  
+![Interface 4](assets/4.JPG)  
 
 💡 **About the Project:** This project focuses on building a data-driven, interactive dashboard using Streamlit and Plotly for comprehensive business analytics. The app allows users to filter by region, category, or sub-category while monitoring KPIs like sales, profit, and orders in real time. Visualizations such as bar charts, line charts, and pie charts enable quick and intuitive data interpretation, making it ideal for both analysts and business managers.  
 
